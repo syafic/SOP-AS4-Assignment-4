@@ -66,5 +66,9 @@
         }
     },
     "minimum-stability": "stable",
-    "prefer-stable": true
+    "prefer-stable": true,
+    "ext-bcmath":"*",
+    "ext-mbstring":"*",
+    "ext-pdo_sqlite":"*",
+    "ext-sqlite3":"*"
 }
